@@ -15,3 +15,5 @@ Create an agentic RAG with 4 kinds of memories:
 - **Episodic Memory** - Historical experiences and their takeaways
 - **Semantic Memory** - Knowledge context and factual grounding
 - **Procedural Memory** - The "rules" and "skills" for interaction
+
+`03_llama3_web_research_agent.ipynb`: An agent which can interact with an external web API to create report on user query.
