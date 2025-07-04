@@ -1,5 +1,5 @@
 # LangGraph Agents
-A series of notebooks containing implementations of various types of LLM Agents
+A series of notebooks containing implementations of various types of LLM Agents and related concepts.
 
 `01_langgraph_agents.ipynb`
 
